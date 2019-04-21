@@ -1,2 +1,2 @@
 # kaggle-projects
-kaggle_mnist project
+kaggle_ projects
